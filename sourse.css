@@ -9,7 +9,7 @@
 body{
     text-align: center;
     font-family:  sans-serif;
-    background-color: aquamarine;
+    background-color: rgb(255, 127, 202);
     background-image: url(./imagenes/fondo1.jpg);
 }
 header{
