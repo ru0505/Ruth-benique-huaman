@@ -9,26 +9,28 @@
 body{
     text-align: center;
     font-family:  sans-serif;
+    background-color: aquamarine;
+    background-image: url(./imagenes/fondo1.jpg);
 }
 header{
-    display: flex;
+    display: flexbox;
     justify-items: center;
     align-items: center;
     
 }
 head{
-    display:flex;
+    display: flex;
     align-items: flex;
-    justify-content:space-between;
-    height:63px;
-    background:   #171717      ;
-    position:fixed;
+    justify-content: space-between;
+    height: 100px;
+    background:   #000000      ;
+    
     width: 100%;
     z-index: 100;
 }
 .contenido{
     display:flex;
-    margin-right: 10px;
-    text-align: center;
-    font-family:  sans-serif;
+    margin-right:150px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
