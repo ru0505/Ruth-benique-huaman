@@ -1,1 +1,1 @@
-# Rut Mery Benique Huaman
+# Ruth Mery Benique Huaman
