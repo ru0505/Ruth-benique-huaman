@@ -81,9 +81,11 @@ head{
 }
 .imagen{
     border-radius: 1rem;
+    
 }
 .conet{
     margin-right:150px;
     margin-left:50px;
+    text-align:left;
     
 }
